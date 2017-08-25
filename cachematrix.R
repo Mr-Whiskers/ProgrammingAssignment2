@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Returns a list of functions that allow users to retrive or store the original matrix and its inverse
 makeCacheMatrix <- function(x = matrix()) {
   inverse <- NULL
